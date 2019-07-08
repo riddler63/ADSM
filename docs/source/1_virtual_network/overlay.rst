@@ -12,8 +12,7 @@ Overlay
 Overlay может быть например таким, как уже я упоминал выше:
 
 * GRE-туннель
-* VXLAN
-* EVPN
+* EVPN/VXLAN
 * L3VPN
 * GENEVE
 
